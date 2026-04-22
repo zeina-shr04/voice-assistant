@@ -20,3 +20,8 @@ speech_recognition (STT)
 pyttsx3 (TTS)
 pyaudio (microphone input)
 OpenAI API for AI responses
+demo:
+
+
+https://github.com/user-attachments/assets/57a3acf4-7ef9-4263-8a87-f104c55a1cf6
+
